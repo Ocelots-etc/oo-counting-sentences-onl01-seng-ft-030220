@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-    if self.String.strip! == true
+    if self.String.strip! = true
 # .end_with?(".")
    end
   end
